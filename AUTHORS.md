@@ -1,3 +1,3 @@
 # Contributors
 
-* [Joe Black](https://github.com/joeblackwaslike)
+- [Joe Black](https://github.com/joeblackwaslike)
